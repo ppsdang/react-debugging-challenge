@@ -12,7 +12,7 @@ Before starting, ensure you have the following installed:
 
 ### Installation
 1. Clone the repository:
-git clone [URL of the React project repository]
+git clone [https://github.com/ppsdang/react-debugging-challenge](https://github.com/ppsdang/react-debugging-challenge)
 
 2. Navigate to the project directory:
 cd react-debugging-challenge
