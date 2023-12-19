@@ -11,8 +11,7 @@ function TodoList() {
     }, []);
 
     const handleAddTodo = () => {
-        addTodo(newTodo);
-        setNewTodo('');
+        
     };
 
     return (
